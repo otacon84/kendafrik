@@ -1,0 +1,31 @@
+generator:
+  class: sfDoctrineGenerator
+  param:
+    model_class:           ken
+    theme:                 admin
+    non_verbose_templates: true
+    with_show:             false
+    singular:              ~
+    plural:                ~
+    route_prefix:          ken
+    with_doctrine_route:   true
+    actions_base_class:    sfActions
+
+
+    config:
+      actions: ~
+      fields: 
+        published: { label: Publié?, help: La news est publiée ou pas }
+      list:    
+        title: Gestion des kens
+        display: [=objet, type, etat, prix, devise , pays, ville]
+        max_per_page: 10
+        sort: [created_at, desc]
+      filter:  
+        display: [category_id, type, objet, etat, prix, devise, debattre, pays, ville, supplement, is_activated]
+      form:    
+        class: BackendKenForm
+      edit:    
+        title: Modification du ken "%%objet%%"   
+      new:     
+        title: Nouveau ken 

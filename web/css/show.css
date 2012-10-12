@@ -1,0 +1,70 @@
+#ken
+{
+  behavior: url(/css/news/PIE.htc);
+  -moz-border-radius: 10px 10px 10px 10px;
+  -webkit-border-radius: 10px 10px 10px 10px;
+  -khtml-border-radius: 10px 10px 10px 10px;
+  border-radius: 10px 10px 10px 10px;
+  border: 1px solid #7fb7db;
+  background-color: #fff;
+  
+  padding: 10px;
+}
+
+#annoncetitre
+{
+  font-size: 110%;
+  padding: 10px;
+  text-align: center;
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+
+#facebooklike
+{
+  display: inline;
+  position: relative;
+  top: 4px;
+  left: 10px;
+}
+
+#annonceimg
+{
+  text-align: center;
+}
+#annonceimg img
+{
+  max-width: 90%;
+}
+
+#details h2
+{
+  font-size: 130%;
+  padding: 10px;
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+#details li
+{
+  padding: 10px;
+  color: #413a3a;
+}
+#supplement
+{
+  width: 300px;
+  text-align: justify;
+}
+#details .libelle
+{
+  padding: 10px;
+  font-weight: bold;
+}
+
+#adannonce
+{
+  float: right;
+  width: 252px;
+  height: 252px;
+  margin-right: 120px;
+  margin-top: 60px;
+}

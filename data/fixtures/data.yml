@@ -1,0 +1,503 @@
+Category:
+  Category_1:
+    created_at: '2011-03-30 09:50:53'
+    updated_at: '2011-03-30 09:50:53'
+  Category_2:
+    created_at: '2011-03-30 09:50:53'
+    updated_at: '2011-03-30 09:50:53'
+  Category_3:
+    created_at: '2011-03-30 09:50:53'
+    updated_at: '2011-03-30 09:50:53'
+  Category_4:
+    created_at: '2011-03-30 19:45:06'
+    updated_at: '2011-03-30 19:45:06'
+  Category_5:
+    created_at: '2011-03-30 19:45:06'
+    updated_at: '2011-03-30 19:45:06'
+  Category_6:
+    created_at: '2011-03-30 19:45:06'
+    updated_at: '2011-03-30 19:45:06'
+  Category_7:
+    created_at: '2011-03-30 19:45:06'
+    updated_at: '2011-03-30 19:45:06'
+  Category_8:
+    created_at: '2011-03-30 19:45:06'
+    updated_at: '2011-03-30 19:45:06'
+  Category_9:
+    created_at: '2011-03-30 19:45:06'
+    updated_at: '2011-03-30 19:45:06'
+  Category_10:
+    created_at: '2011-03-30 19:45:06'
+    updated_at: '2011-03-30 19:45:06'
+  Category_11:
+    created_at: '2011-03-30 19:45:06'
+    updated_at: '2011-03-30 19:45:06'
+  Category_12:
+    created_at: '2011-03-30 19:45:06'
+    updated_at: '2011-03-30 19:45:06'
+  Category_13:
+    created_at: '2011-03-30 19:45:06'
+    updated_at: '2011-03-30 19:45:06'
+sfGuardUser:
+  sfGuardUser_2:
+    first_name: null
+    last_name: null
+    email_address: kamagatos@gmail.com
+    username: kamagatos
+    algorithm: sha1
+    salt: d3e68807892d38dae4d95d4513cf2603
+    password: f1e6677efe3f82fe59f628dc9b785ffe82a7d77c
+    is_active: true
+    is_super_admin: true
+    last_login: '2011-04-06 04:13:12'
+    created_at: '2011-04-06 03:24:11'
+    updated_at: '2011-04-06 04:13:12'
+sfGuardRememberKey:
+  sfGuardRememberKey_2:
+    User: sfGuardUser_2
+    remember_key: kkpx72n6dk0gg8k8wg0w4g0s40kw8g4
+    ip_address: 127.0.0.1
+    created_at: '2011-04-06 04:13:12'
+    updated_at: '2011-04-06 04:13:12'
+Ken:
+  Ken_1:
+    Category: Category_1
+    type: vente
+    objet: 'Iphone 3GS'
+    etat: neuf
+    prix: '5000'
+    devise: dh
+    debattre: fixe
+    pays: MA
+    ville: 'El Jadida'
+    email: kamagatos@gmail.com
+    tel1: '(002) 126-1957-6110'
+    tel2: '(002) 126-1957-6110'
+    supplement: ''
+    image: acff2a8dfde7a043d76143c9a4fd9d6f05e51416.jpg
+    is_activated: true
+    created_at: '2011-03-30 10:12:19'
+    updated_at: '2011-04-05 23:28:52'
+  Ken_2:
+    Category: Category_1
+    type: achat
+    objet: 'Samsung Galaxy Tab'
+    etat: utilise
+    prix: '5000'
+    devise: dh
+    debattre: negociable
+    pays: CI
+    ville: null
+    email: null
+    tel1: null
+    tel2: null
+    supplement: null
+    image: null
+    is_activated: true
+    created_at: '2011-03-30 10:21:55'
+    updated_at: '2011-03-30 10:21:55'
+  Ken_3:
+    Category: Category_2
+    type: vente
+    objet: 'HP Presario A900'
+    etat: utilise
+    prix: '3000'
+    devise: dh
+    debattre: negociable
+    pays: MA
+    ville: null
+    email: null
+    tel1: null
+    tel2: null
+    supplement: null
+    image: null
+    is_activated: true
+    created_at: '2011-03-30 15:07:03'
+    updated_at: '2011-03-30 15:07:03'
+  Ken_4:
+    Category: Category_3
+    type: vente
+    objet: 'Samsung Galaxy Tab'
+    etat: neuf
+    prix: '8000'
+    devise: dh
+    debattre: negociable
+    pays: CI
+    ville: null
+    email: null
+    tel1: null
+    tel2: null
+    supplement: null
+    image: 0e501bb8b7753517ad816deadd25c4887f781f9d.jpg
+    is_activated: true
+    created_at: '2011-03-30 15:16:56'
+    updated_at: '2011-03-30 15:16:56'
+  Ken_5:
+    Category: Category_6
+    type: vente
+    objet: 'Mercedes CLS50'
+    etat: neuf
+    prix: '60000'
+    devise: dh
+    debattre: negociable
+    pays: FR
+    ville: null
+    email: null
+    tel1: null
+    tel2: null
+    supplement: null
+    image: c1dbf0fbf5da61554c5d3a4ef2a19e45470aa3a7.jpg
+    is_activated: true
+    created_at: '2011-03-30 18:41:51'
+    updated_at: '2011-03-30 18:41:51'
+  Ken_6:
+    Category: Category_7
+    type: vente
+    objet: ' toshiba satellite u405 s2824'
+    etat: neuf
+    prix: '3500'
+    devise: dh
+    debattre: fixe
+    pays: FR
+    ville: null
+    email: null
+    tel1: null
+    tel2: null
+    supplement: null
+    image: 725017593a3ef0aac9c8d9b8b7a1ce0ef778e3c8.jpg
+    is_activated: true
+    created_at: '2011-03-30 21:05:06'
+    updated_at: '2011-03-30 21:05:06'
+  Ken_7:
+    Category: Category_8
+    type: vente
+    objet: 'Guitare 20fx'
+    etat: utilise
+    prix: '80'
+    devise: eur
+    debattre: negociable
+    pays: MA
+    ville: Casa
+    email: null
+    tel1: null
+    tel2: null
+    supplement: null
+    image: 7a8b4c2249eaa47eb7d125aecdf9eac5b67f1a7a.jpg
+    is_activated: true
+    created_at: '2011-03-31 15:53:18'
+    updated_at: '2011-03-31 15:53:18'
+  Ken_8:
+    Category: Category_6
+    type: achat
+    objet: 'Yamaha 2002'
+    etat: neuf
+    prix: '1200000'
+    devise: xof
+    debattre: negociable
+    pays: CI
+    ville: Abidjan
+    email: kamagatos@yahoo.fr
+    tel1: '(061) 957--'
+    tel2: '(061) 957-6110-'
+    supplement: ''
+    image: e1584ed7dd6a6ec099b3fe98aa80ea4cb899ba4b.jpg
+    is_activated: true
+    created_at: '2011-03-31 18:14:34'
+    updated_at: '2011-04-06 04:13:55'
+  Ken_9:
+    Category: Category_1
+    type: vente
+    objet: 'Pink poney'
+    etat: neuf
+    prix: '200000'
+    devise: dh
+    debattre: fixe
+    pays: null
+    ville: Accra
+    email: kamagatos@gmail.com
+    tel1: '(061) 957-6110'
+    tel2: '(061) 957-6110'
+    supplement: ''
+    image: 2e3800a78eb1750462b5807fda826d4f5022292f.jpg
+    is_activated: true
+    created_at: '2011-04-04 02:53:24'
+    updated_at: '2011-04-04 02:53:24'
+  Ken_10:
+    Category: Category_1
+    type: vente
+    objet: 'poney marron'
+    etat: neuf
+    prix: '20000'
+    devise: dh
+    debattre: fixe
+    pays: GH
+    ville: Acrra
+    email: e.lavoine@yahoo.fr
+    tel1: '(002) 120-6195-76110'
+    tel2: '(002) 120-6195-76110'
+    supplement: 'WASHINGTON, Le président des Etats-Unis Barack Obama adéclaré mardi soutenir “fermement“ les actions entreprises par l`ONU et laFrance contre le régime du président ivoirien sortant Laurent Gbagbo, qu`il aappelé à “démissionner immédiatement“. Dans un communiqué diffusé alors que le départ du dirigeant ivoiriensemblait imminent, des négociations pour sa “reddition“ étant en cours selonParis, M. Obama a aussi dit sa “profonde inquiétude“ au sujet de massacresdans l`ouest du pays. “Je soutiens'
+    image: c767397c099e5300c2369844d386a88402a3786f.jpg
+    is_activated: true
+    created_at: '2011-04-04 03:11:58'
+    updated_at: '2011-04-04 03:11:58'
+CategoryTranslation:
+  CategoryTranslation_10_pt:
+    Category: Category_10
+    name: 'Animais de estimação'
+    lang: pt
+    slug: animais-de-estimacao
+  CategoryTranslation_10_fr:
+    Category: Category_10
+    name: Animaux
+    lang: fr
+    slug: animaux
+  CategoryTranslation_6_fr:
+    Category: Category_6
+    name: 'Auto / Moto'
+    lang: fr
+    slug: auto-moto
+  CategoryTranslation_13_fr:
+    Category: Category_13
+    name: Autre
+    lang: fr
+    slug: autre
+  CategoryTranslation_5_es:
+    Category: Category_5
+    name: 'Bienes Raíces'
+    lang: es
+    slug: bienes-raices
+  CategoryTranslation_8_en:
+    Category: Category_8
+    name: Business
+    lang: en
+    slug: business
+  CategoryTranslation_8_fr:
+    Category: Category_8
+    name: 'Business / Affaires'
+    lang: fr
+    slug: business-affaires
+  CategoryTranslation_12_en:
+    Category: Category_12
+    name: Carpool
+    lang: en
+    slug: carpool
+  CategoryTranslation_12_es:
+    Category: Category_12
+    name: Carpool
+    lang: es
+    slug: carpool
+  CategoryTranslation_12_pt:
+    Category: Category_12
+    name: Carpool
+    lang: pt
+    slug: carpool
+  CategoryTranslation_11_fr:
+    Category: Category_11
+    name: Colocation
+    lang: fr
+    slug: colocation
+  CategoryTranslation_11_es:
+    Category: Category_11
+    name: 'Compañero de cuarto'
+    lang: es
+    slug: companero-de-cuarto
+  CategoryTranslation_11_pt:
+    Category: Category_11
+    name: 'Companheiro de quarto'
+    lang: pt
+    slug: companheiro-de-quarto
+  CategoryTranslation_7_es:
+    Category: Category_7
+    name: Computadoras
+    lang: es
+    slug: computadoras
+  CategoryTranslation_7_pt:
+    Category: Category_7
+    name: Computadores
+    lang: pt
+    slug: computadores
+  CategoryTranslation_7_en:
+    Category: Category_7
+    name: Computers
+    lang: en
+    slug: computers
+  CategoryTranslation_12_fr:
+    Category: Category_12
+    name: CoVoiturage
+    lang: fr
+    slug: covoiturage
+  CategoryTranslation_4_es:
+    Category: Category_4
+    name: Empleo
+    lang: es
+    slug: empleo
+  CategoryTranslation_4_fr:
+    Category: Category_4
+    name: Emploi
+    lang: fr
+    slug: emploi
+  CategoryTranslation_4_en:
+    Category: Category_4
+    name: Employment
+    lang: en
+    slug: employment
+  CategoryTranslation_4_pt:
+    Category: Category_4
+    name: Emprego
+    lang: pt
+    slug: emprego
+  CategoryTranslation_5_fr:
+    Category: Category_5
+    name: Immobilier
+    lang: fr
+    slug: immobilier
+  CategoryTranslation_5_pt:
+    Category: Category_5
+    name: Imóveis
+    lang: pt
+    slug: imoveis
+  CategoryTranslation_7_fr:
+    Category: Category_7
+    name: Informatique
+    lang: fr
+    slug: informatique
+  CategoryTranslation_2_en:
+    Category: Category_2
+    name: Laptop
+    lang: en
+    slug: laptop
+  CategoryTranslation_10_es:
+    Category: Category_10
+    name: Mascotas
+    lang: es
+    slug: mascotas
+  CategoryTranslation_6_es:
+    Category: Category_6
+    name: Motor
+    lang: es
+    slug: motor
+  CategoryTranslation_6_en:
+    Category: Category_6
+    name: Motoring
+    lang: en
+    slug: motoring
+  CategoryTranslation_9_en:
+    Category: Category_9
+    name: Music
+    lang: en
+    slug: music
+  CategoryTranslation_9_es:
+    Category: Category_9
+    name: Música
+    lang: es
+    slug: musica
+  CategoryTranslation_9_pt:
+    Category: Category_9
+    name: Música
+    lang: pt
+    slug: musica
+  CategoryTranslation_9_fr:
+    Category: Category_9
+    name: Musique
+    lang: fr
+    slug: musique
+  CategoryTranslation_8_es:
+    Category: Category_8
+    name: Negocios
+    lang: es
+    slug: negocios
+  CategoryTranslation_8_pt:
+    Category: Category_8
+    name: Negócios
+    lang: pt
+    slug: negocios
+  CategoryTranslation_2_es:
+    Category: Category_2
+    name: 'ordenador portátil'
+    lang: es
+    slug: ordenador-portatil
+  CategoryTranslation_2_fr:
+    Category: Category_2
+    name: 'Ordinateurs portables'
+    lang: fr
+    slug: ordinateurs-portables
+  CategoryTranslation_13_en:
+    Category: Category_13
+    name: Other
+    lang: en
+    slug: other
+  CategoryTranslation_13_es:
+    Category: Category_13
+    name: Otros
+    lang: es
+    slug: otros
+  CategoryTranslation_13_pt:
+    Category: Category_13
+    name: Outras
+    lang: pt
+    slug: outras
+  CategoryTranslation_10_en:
+    Category: Category_10
+    name: Pets
+    lang: en
+    slug: pets
+  CategoryTranslation_1_en:
+    Category: Category_1
+    name: Phone
+    lang: en
+    slug: phone
+  CategoryTranslation_2_pt:
+    Category: Category_2
+    name: Laptop
+    lang: pt
+    slug: ptlaptop
+  CategoryTranslation_5_en:
+    Category: Category_5
+    name: 'Real Estate'
+    lang: en
+    slug: real-estate
+  CategoryTranslation_11_en:
+    Category: Category_11
+    name: Roommate
+    lang: en
+    slug: roommate
+  CategoryTranslation_3_es:
+    Category: Category_3
+    name: 'tablet PC'
+    lang: es
+    slug: tablet-pc
+  CategoryTranslation_3_pt:
+    Category: Category_3
+    name: 'tablet PC'
+    lang: pt
+    slug: tablet-pc
+  CategoryTranslation_3_en:
+    Category: Category_3
+    name: 'Tablets computer'
+    lang: en
+    slug: tablets-computer
+  CategoryTranslation_3_fr:
+    Category: Category_3
+    name: 'Tablettes '
+    lang: fr
+    slug: tablettes
+  CategoryTranslation_1_pt:
+    Category: Category_1
+    name: Telefone
+    lang: pt
+    slug: telefone
+  CategoryTranslation_1_es:
+    Category: Category_1
+    name: Teléfono
+    lang: es
+    slug: telefono
+  CategoryTranslation_1_fr:
+    Category: Category_1
+    name: Téléphones
+    lang: fr
+    slug: telephones
+  CategoryTranslation_6_pt:
+    Category: Category_6
+    name: 'Veículos motorizados'
+    lang: pt
+    slug: veiculos-motorizados

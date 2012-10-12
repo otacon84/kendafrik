@@ -1,0 +1,64 @@
+<?php
+
+  function islamdate($time)
+	{
+
+    $year =  31536000;
+    $month = 2678400;
+    $day = 86400;
+    $hour = 3600;
+    $minute = 60;
+
+		$since_created = time() - $time;
+		
+		if($since_created <= 0)
+		{
+		  $since_created = __('2 secondes');
+    }
+		elseif($since_created >= $year)
+		{
+			$date = array(intval($since_created / $year), __('an'), '');
+		}
+		else if($since_created >= $month)
+		{
+			$date_mois = intval($since_created / $month).' mois';
+		}
+		else if ($since_created >= $day)
+		{
+			$date = array(intval($since_created / $day), 'jour', '');
+		}
+		else if ($since_created >= $hour)
+		{
+			$date = array(intval($since_created / $hour), 'heure', '');
+		}
+		else if ($since_created >= $minute)
+		{
+			$date = array(intval($since_created / $minute), 'minute', '');
+		}
+		else
+		{
+			$date = array(intval($since_created), 'seconde', 'environ');
+		}
+		
+		if(isset($date) and $date[0] != 1)
+		{
+			$date = $date[2].' '.$date[0].' '.$date[1].'s';
+			return $date;
+		}
+		else if (isset($date) and $date[0] == 1)
+		{
+			$date = $date[2].' '.$date[0].' '.$date[1];
+			return $date;
+		}
+		else if (isset($date_mois))
+		{
+  		return $date_mois;
+		}
+		else
+		{
+		  $since_created = __('2 secondes');
+  		return $since_created;
+		}
+	}
+
+?>

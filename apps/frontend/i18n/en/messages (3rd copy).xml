@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file source-language="EN" target-language="en" datatype="plaintext" original="messages" date="2011-04-03T01:12:09Z" product-name="messages">
+    <header/>
+    <body>
+      <trans-unit id="1">
+        <source>Petites annonces, annonces gratuites, petites annonces gratuites, produits d'occasion, immobilier, vehicules, informatique, tablette, auto...</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="2">
+        <source>Petites annonces gratuites d'occasion (immobilier, voiture, moto, produits d'occasion, locations de vacances, offres d'emploi, services de proximité, animaux...)</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="3">
+        <source>KenDAfrik 2011</source>
+        <target>KenDAfrik 2011</target>
+      </trans-unit>
+      <trans-unit id="4">
+        <source>Created by Eldon Labs</source>
+        <target>Created by Eldon Labs</target>
+      </trans-unit>
+      <trans-unit id="5">
+        <source>2 secondes</source>
+        <target>2 seconds</target>
+      </trans-unit>
+      <trans-unit id="6">
+        <source>an</source>
+        <target>year</target>
+      </trans-unit>
+      <trans-unit id="7">
+        <source> mois</source>
+        <target>month</target>
+      </trans-unit>
+      <trans-unit id="8">
+        <source>jour</source>
+        <target>day</target>
+      </trans-unit>
+      <trans-unit id="9">
+        <source>heure</source>
+        <target>hour</target>
+      </trans-unit>
+      <trans-unit id="10">
+        <source>minute</source>
+        <target>minute</target>
+      </trans-unit>
+      <trans-unit id="11">
+        <source>seconde</source>
+        <target>second</target>
+      </trans-unit>
+      <trans-unit id="12">
+        <source>environ</source>
+        <target>about</target>
+      </trans-unit>
+      <trans-unit id="13">
+        <source>changer</source>
+        <target>change</target>
+      </trans-unit>
+      <trans-unit id="14">
+        <source>Prix : </source>
+        <target>Price : </target>
+      </trans-unit>
+      <trans-unit id="15">
+        <source>postée il y a </source>
+        <target> </target>
+      </trans-unit>
+      <trans-unit id="16">
+        <source>Nouveau Ken</source>
+        <target>New ken</target>
+      </trans-unit>
+      <trans-unit id="17">
+        <source>KenDAfrik pour vous, %name% %objet% %etat% - %pays%</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="18">
+        <source>KenDAfrik.com, %name%, %objet%, %etat%, %pays%, %ville%</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="19">
+        <source>KenDAfrik pour vous, %name% %objet% %etat% - %pays%... Achetez et vendez vos objets neufs ou d'occasion sur kenDAfrik.com</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="20">
+        <source>Retourner à la liste</source>
+        <target>Back to list</target>
+      </trans-unit>
+      <trans-unit id="21">
+        <source>postée il y a %date%</source>
+        <target>%date% ago</target>
+      </trans-unit>
+      <trans-unit id="22">
+        <source>Detail de l'annonce</source>
+        <target>Caracteritics of product</target>
+      </trans-unit>
+      <trans-unit id="23">
+        <source>Type d'opération : </source>
+        <target>Operation type : </target>
+      </trans-unit>
+      <trans-unit id="24">
+        <source>Nom du produit : </source>
+        <target>The deal : </target>
+      </trans-unit>
+      <trans-unit id="25">
+        <source>Prix du produit : </source>
+        <target>Price : </target>
+      </trans-unit>
+      <trans-unit id="26">
+        <source>Caractéristiques du produit : </source>
+        <target>Features : </target>
+      </trans-unit>
+      <trans-unit id="27">
+        <source>Etat : </source>
+        <target>State of product : </target>
+      </trans-unit>
+      <trans-unit id="28">
+        <source>Pays : </source>
+        <target>Country : </target>
+      </trans-unit>
+      <trans-unit id="29">
+        <source>ville : </source>
+        <target>City : </target>
+      </trans-unit>
+      <trans-unit id="30">
+        <source>Email : </source>
+        <target>Email : </target>
+      </trans-unit>
+      <trans-unit id="31">
+        <source>Téléphone 1 : </source>
+        <target>Phone 1 :</target>
+      </trans-unit>
+      <trans-unit id="32">
+        <source>Téléphone 2 : </source>
+        <target>Phone 2 : </target>
+      </trans-unit>
+      <trans-unit id="33">
+        <source>Kendafrik.com - Categorie %category% - Achetez et vendez vos objets neufs ou d'occasion, prix fixe, petites annonces</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="34">
+        <source>Kendafrik.com - Achetez et vendez vos objets neufs ou d'occasion, prix fixe, petites annonces</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="35">
+        <source>Kendafrik.com, %category% , Acheter, vendre, petites annonces, acheter occasions, annonces afrique</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="36">
+        <source>kendafrik.com, Acheter, vendre, petites annonces, acheter occasions, annonces afrique</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="37">
+        <source>Sur kendafrik.com, retrouvez les catégories %category%. achetez et vendez vos vêtements, téléphones, bijoux, livres, jeux, collections, DVD, portables, ou votre voiture, à prix fixe ou en petites annonces gratuites!</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="38">
+        <source>Sur kendafrik.com, achetez et vendez vos vêtements, téléphones, bijoux, livres, jeux, collections, DVD, portables, ou votre voiture, à prix fixe ou en petites annonces gratuites!</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="39">
+        <source>Rejoingnez nous sur facebook</source>
+        <target>Follow us on facebook</target>
+      </trans-unit>
+      <trans-unit id="40">
+        <source>Rejoingnez nous sur twitter</source>
+        <target>Follow us on twitter</target>
+      </trans-unit>
+      <trans-unit id="41">
+        <source>Abonnez vous à nos flux rss</source>
+        <target>Follow our rss feed</target>
+      </trans-unit>
+      <trans-unit id="42">
+        <source>Valider</source>
+        <target>Submit</target>
+      </trans-unit>
+      <trans-unit id="43">
+        <source>Retour au kens</source>
+        <target>Back to kens</target>
+      </trans-unit>
+
+
+      <trans-unit id="44">
+        <source>Objet de votre annonce :</source>
+        <target>What are you dealing ?</target>
+      </trans-unit>
+      <trans-unit id="45">
+        <source>Type d'operation : </source>
+        <target>Operation type : </target>
+      </trans-unit>
+      <trans-unit id="46">
+        <source>Etat de votre produit : </source>
+        <target>State of your product : </target>
+      </trans-unit>
+      <trans-unit id="47">
+        <source>Prix : </source>
+        <target>Price : </target>
+      </trans-unit>
+      <trans-unit id="48">
+        <source>Devise : </source>
+        <target>Currency : </target>
+      </trans-unit>
+      <trans-unit id="49">
+        <source>Negociable ou pas : </source>
+        <target>Is price </target>
+      </trans-unit>
+      <trans-unit id="50">
+        <source>Votre email : </source>
+        <target>Email :</target>
+      </trans-unit>
+      <trans-unit id="51">
+        <source>Telephone 1 : </source>
+        <target>Phone 1 :</target>
+      </trans-unit>
+      <trans-unit id="52">
+        <source>Telephone 2 : </source>
+        <target>Phone 2 :</target>
+      </trans-unit>
+      <trans-unit id="53">
+        <source>Caracteristiques du produit :</source>
+        <target>Features :</target>
+      </trans-unit>
+      <trans-unit id="54">
+        <source>Publier l'annonce dans quel pays ? :</source>
+        <target>Country :</target>
+      </trans-unit>                                                                  
+      <trans-unit id="55">
+        <source>Publier l'annonce dans quelle ville ? :</source>
+        <target>City :</target>
+      </trans-unit>      
+      <trans-unit id="56">
+        <source>Categorie : </source>
+        <target>Category :</target>
+      </trans-unit>      
+      <trans-unit id="57">
+        <source>Saisissez le code affiché :</source>
+        <target>Insert code of validation :</target>
+      </trans-unit>    
+      <trans-unit id="58">
+        <source>Image de votre produit :</source>
+        <target>Picture of product :</target>
+      </trans-unit>  
+      <trans-unit id="59">
+        <source>Location</source>
+        <target>Rentals</target>
+      </trans-unit>          
+      <trans-unit id="60">
+        <source>Achat</source>
+        <target>Buy</target>
+      </trans-unit>    
+      <trans-unit id="61">
+        <source>Vente</source>
+        <target>Sale</target>
+      </trans-unit>                
+      <trans-unit id="62">
+        <source>Neuf Amballé</source>
+        <target>packed</target>
+      </trans-unit>     
+      <trans-unit id="63">
+        <source>Neuf</source>
+        <target>Unused</target>
+      </trans-unit>     
+      <trans-unit id="64">
+        <source>Utilisé</source>
+        <target>Used</target>
+      </trans-unit>     
+      <trans-unit id="65">
+        <source>Prix fixe</source>
+        <target>Price set</target>
+      </trans-unit>                                                                               
+      <trans-unit id="65">
+        <source>Prix négociable</source>
+        <target>Price not sets</target>
+      </trans-unit>                      
+      
+      
+      <trans-unit id="66">
+        <source>Prix négociable</source>
+        <target>Price not sets</target>
+      </trans-unit>                    
+      <trans-unit id="67">
+        <source>Le message est trop court. Il faut au moins 4 caractères.</source>
+        <target>Your message is too shot. You need at least 4 characters.</target>
+      </trans-unit>                    
+      <trans-unit id="68">
+        <source>Kenya</source>
+        <target>Kenya</target>
+      </trans-unit>                    
+      <trans-unit id="69">
+        <source>Zimbabwe</source>
+        <target>Zimbabwe</target>
+      </trans-unit>                    
+      <trans-unit id="70">
+        <source>Zambia</source>
+        <target>Zambia</target>
+      </trans-unit>                    
+      <trans-unit id="71">
+        <source>Uganda</source>
+        <target>Uganda</target>
+      </trans-unit>                    
+      <trans-unit id="71">
+        <source>Togo</source>
+        <target>Togo</target>
+      </trans-unit>                    
+      <trans-unit id="73">
+        <source>Seychelles</source>
+        <target>Seychelles</target>
+      </trans-unit>                    
+      <trans-unit id="74">
+        <source>République du Congo</source>
+        <target>Congo</target>
+      </trans-unit>                    
+      <trans-unit id="75">
+        <source>Gambie</source>
+        <target>Gambia</target>
+      </trans-unit>                                                                                
+      <trans-unit id="76">
+        <source>République Démocratique du Congo</source>
+        <target>Democratic Republic of the Congo</target>
+      </trans-unit>                    
+      <trans-unit id="77">
+        <source>Comores</source>
+        <target>Comores</target>
+      </trans-unit>                    
+      <trans-unit id="78">
+        <source>Republique de la Centre Afrique</source>
+        <target>Central African Republic</target>
+      </trans-unit>                    
+      <trans-unit id="79">
+        <source>Îles Canaries</source>
+        <target>Canary Islands</target>
+      </trans-unit>                    
+      <trans-unit id="80">
+        <source>Swaziland</source>
+        <target>Swaziland</target>
+      </trans-unit>                    
+      <trans-unit id="81">
+        <source>Tanzania</source>
+        <target>Tanzania</target>
+      </trans-unit>                    
+      <trans-unit id="82">
+        <source>South Africa</source>
+        <target>South Africa</target>
+      </trans-unit>                    
+      <trans-unit id="83">
+        <source>Sudan</source>
+        <target>Sudan</target>
+      </trans-unit>                    
+      <trans-unit id="84">
+        <source>Sierra Léone</source>
+        <target>Sierra Leone</target>
+      </trans-unit>                    
+      <trans-unit id="85">
+        <source>Somalie</source>
+        <target>Somalia</target>
+      </trans-unit>                    
+      <trans-unit id="86">
+        <source>Sénégal</source>
+        <target>Senegal</target>
+      </trans-unit>                    
+      <trans-unit id="87">
+        <source>Rwanda</source>
+        <target>Rwanda</target>
+      </trans-unit>                    
+      <trans-unit id="88">
+        <source>Sao Tomé et principe</source>
+        <target>São Tomé and Príncipe</target>
+      </trans-unit>                    
+      <trans-unit id="89">
+        <source>Saint Hélène</source>
+        <target>Saint Helena</target>
+      </trans-unit>                    
+      <trans-unit id="90">
+        <source>Namibie</source>
+        <target>Namibie</target>
+      </trans-unit>                    
+      <trans-unit id="91">
+        <source>Mozambique</source>
+        <target>Mozambique</target>
+      </trans-unit>                    
+      <trans-unit id="92">
+        <source>Nigeria</source>
+        <target>Nigeria</target>
+      </trans-unit>                    
+      <trans-unit id="93">
+        <source>Niger</source>
+        <target>Niger</target>
+      </trans-unit>                    
+      <trans-unit id="94">
+        <source>Melilia</source>
+        <target>Melilla</target>
+      </trans-unit>                    
+      <trans-unit id="95">
+        <source>Maurice</source>
+        <target>Mauritius</target>
+      </trans-unit>                    
+      <trans-unit id="96">
+        <source>Mauritanie</source>
+        <target>Mauritania</target>
+      </trans-unit>                    
+      <trans-unit id="97">
+        <source>Maroc</source>
+        <target>Morocco</target>
+      </trans-unit>                    
+      <trans-unit id="98">
+        <source>Madeira</source>
+        <target>Madeira</target>
+      </trans-unit>                    
+      <trans-unit id="99">
+        <source>Madagascar</source>
+        <target>Madagascar</target>
+      </trans-unit>                    
+      <trans-unit id="100">
+        <source>Malawi</source>
+        <target>Malawi</target>
+      </trans-unit>                    
+      <trans-unit id="101">
+        <source>Mali</source>
+        <target>Mali</target>
+      </trans-unit>                    
+      <trans-unit id="102">
+        <source>Libya</source>
+        <target>Libya</target>
+      </trans-unit>                    
+      <trans-unit id="103">
+        <source>Liberia</source>
+        <target>Liberia</target>
+      </trans-unit>                    
+      <trans-unit id="104">
+        <source>Lesotho</source>
+        <target>Lesotho</target>
+      </trans-unit>                    
+      <trans-unit id="105">
+        <source>Guinée</source>
+        <target>Guinea</target>
+      </trans-unit>                    
+      <trans-unit id="106">
+        <source>Guinée Bissau</source>
+        <target>Guinea-Bissau</target>
+      </trans-unit>                    
+      <trans-unit id="107">
+        <source>Ghana</source>
+        <target>Ghana</target>
+      </trans-unit>                    
+      <trans-unit id="108">
+        <source>Gabon</source>
+        <target>Gabon</target>
+      </trans-unit>                    
+      <trans-unit id="109">
+        <source>France</source>
+        <target>France</target>
+      </trans-unit>                    
+      <trans-unit id="110">
+        <source>Ethiopia</source>
+        <target>Ethiopia</target>
+      </trans-unit>                    
+      <trans-unit id="111">
+        <source>Eritrea</source>
+        <target>Eritrea</target>
+      </trans-unit>                    
+      <trans-unit id="112">
+        <source>Guinée Equatoriale</source>
+        <target>Equatorial Guinea</target>
+      </trans-unit>                    
+      <trans-unit id="113">
+        <source>Egypt</source>
+        <target>Egypt</target>
+      </trans-unit>                    
+      <trans-unit id="114">
+        <source>Djibouti</source>
+        <target>Djibouti</target>
+      </trans-unit>                    
+      <trans-unit id="115">
+        <source>Côte d'Ivoire</source>
+        <target>Côte d'Ivoire</target>
+      </trans-unit>                    
+      <trans-unit id="116">
+        <source>Chad</source>
+        <target>Chad</target>
+      </trans-unit>                    
+      <trans-unit id="117">
+        <source>Ceuta</source>
+        <target>Ceuta</target>
+      </trans-unit>                    
+      <trans-unit id="118">
+        <source>Cape Verde</source>
+        <target>Cape Verde</target>
+      </trans-unit>                    
+      <trans-unit id="119">
+        <source>Cameroun</source>
+        <target>Cameroon</target>
+      </trans-unit>                    
+      <trans-unit id="120">
+        <source>Burundi</source>
+        <target>Burundi</target>
+      </trans-unit>                    
+      <trans-unit id="121">
+        <source>Burkina Faso</source>
+        <target>Burkina Faso</target>
+      </trans-unit>                    
+      <trans-unit id="122">
+        <source>Botswana</source>
+        <target>Botswana</target>
+      </trans-unit>                    
+      <trans-unit id="123">
+        <source>Benin</source>
+        <target>Benin</target>
+      </trans-unit>                    
+      <trans-unit id="124">
+        <source>Angola</source>
+        <target>Angola</target>
+      </trans-unit>                    
+      <trans-unit id="125">
+        <source>Algerie</source>
+        <target>Algeria</target>
+      </trans-unit>                                                  
+    </body>
+  </file>
+</xliff>

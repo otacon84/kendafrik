@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file source-language="EN" target-language="ar" datatype="plaintext" original="messages" date="2011-04-03T01:12:14Z" product-name="messages">
+    <header/>
+    <body>
+      <trans-unit id="1">
+        <source>Petites annonces, annonces gratuites, petites annonces gratuites, produits d'occasion, immobilier, vehicules, informatique, tablette, auto...</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="2">
+        <source>Petites annonces gratuites d'occasion (immobilier, voiture, moto, produits d'occasion, locations de vacances, offres d'emploi, services de proximité, animaux...)</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="3">
+        <source>KenDAfrik 2011</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="4">
+        <source>Created by Eldon Labs</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="5">
+        <source>2 secondes</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="6">
+        <source>an</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="7">
+        <source> mois</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="8">
+        <source>jour</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="9">
+        <source>heure</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="10">
+        <source>minute</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="11">
+        <source>seconde</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="12">
+        <source>environ</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="13">
+        <source>changer</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="14">
+        <source>Prix : </source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="15">
+        <source>postée il y a </source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="16">
+        <source>Nouveau Ken</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="17">
+        <source>KenDAfrik pour vous, %name% %objet% %etat% - %pays%</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="18">
+        <source>KenDAfrik.com, %name%, %objet%, %etat%, %pays%, %ville%</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="19">
+        <source>KenDAfrik pour vous, %name% %objet% %etat% - %pays%... Achetez et vendez vos objets neufs ou d'occasion sur kenDAfrik.com</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="20">
+        <source>Retourner à la liste</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="21">
+        <source>postée il y a %date%</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="22">
+        <source>Detail de l'annonce</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="23">
+        <source>Type d'opération : </source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="24">
+        <source>Nom du produit : </source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="25">
+        <source>Prix du produit : </source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="26">
+        <source>Caractéristiques du produit : </source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="27">
+        <source>Etat : </source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="28">
+        <source>Pays : </source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="29">
+        <source>ville : </source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="30">
+        <source>Email : </source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="31">
+        <source>Téléphone 1 : </source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="32">
+        <source>Téléphone 2 : </source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="33">
+        <source>Kendafrik.com - Categorie %category% - Achetez et vendez vos objets neufs ou d'occasion, prix fixe, petites annonces</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="34">
+        <source>Kendafrik.com - Achetez et vendez vos objets neufs ou d'occasion, prix fixe, petites annonces</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="35">
+        <source>Kendafrik.com, %category% , Acheter, vendre, petites annonces, acheter occasions, annonces afrique</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="36">
+        <source>kendafrik.com, Acheter, vendre, petites annonces, acheter occasions, annonces afrique</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="37">
+        <source>Sur kendafrik.com, retrouvez les catégories %category%. achetez et vendez vos vêtements, téléphones, bijoux, livres, jeux, collections, DVD, portables, ou votre voiture, à prix fixe ou en petites annonces gratuites!</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="38">
+        <source>Sur kendafrik.com, achetez et vendez vos vêtements, téléphones, bijoux, livres, jeux, collections, DVD, portables, ou votre voiture, à prix fixe ou en petites annonces gratuites!</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="39">
+        <source>Rejoingnez nous sur facebook</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="40">
+        <source>Rejoingnez nous sur twitter</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="41">
+        <source>Abonnez vous à nos flux rss</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="42">
+        <source>Valider</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="43">
+        <source>Retour au kens</source>
+        <target/>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

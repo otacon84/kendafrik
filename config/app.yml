@@ -1,0 +1,10 @@
+all:
+  recaptcha:
+    public_key:     6LcWDcMSAAAAABW0hFXkroNjMjaXJoRuOBXlQjKJ
+    private_key:    6LcWDcMSAAAAAO97sjj765Xgw4aGP_du1kfrKcMa
+  facebook:
+    app_id: 122377107838770
+    api_key: d28afb2b25babbcdb3bf6a2950bfaf45
+    secret: e091c939f922c71a729fe9a339adffb2
+    base_url: http://www.islamside.com.localhost/
+    app_url: http://islamside.com.localhost    

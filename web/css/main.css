@@ -1,0 +1,221 @@
+/*
+Reset CSS
+Copyright (c) 2008, Yahoo! Inc. All rights reserved.
+Code licensed under the BSD License:
+http://developer.yahoo.net/yui/license.txt
+version: 2.6.0
+*/
+html{color:#000;}body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,textarea,p,blockquote,th,td{margin:0;padding:0;}table{border-collapse:collapse;border-spacing:0;}fieldset,img{border:0;}address,caption,cite,code,dfn,em,strong,th,var{font-weight:normal;}li{list-style:none;}caption,th{text-align:left;}h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal;}q:before,q:after{content:'';}abbr,acronym{border:0;font-variant:normal;}sup{vertical-align:text-top;}sub{vertical-align:text-bottom;}input,textarea,select{font-family:inherit;font-size:inherit;font-weight:inherit;}input,textarea,select{*font-size:100%;}legend{color:#000;}del,ins{text-decoration:none;}
+
+/*
+Fonts CSS
+Copyright (c) 2008, Yahoo! Inc. All rights reserved.
+Code licensed under the BSD License:
+http://developer.yahoo.net/yui/license.txt
+version: 2.6.0
+*/
+body{font:13px/1.231 arial,helvetica,clean,sans-serif;*font-size:small;*font:x-small;}select,input,button,textarea{font:99% arial,helvetica,clean,sans-serif;outline: none;}table{font-size:inherit;font:100%;}pre,code,kbd,samp,tt{font-family:monospace;*font-size:108%;line-height:100%;}
+
+
+body
+{
+  background: url(../images/bg.png);
+  min-width: 1000px;
+  background-color: #7fb7db;
+}
+
+#header
+{
+  background-color: #629bbf;  
+  font-family: arial;
+  text-align: right;
+  padding-right: 5px;
+  height: 20px;
+  line-height: 20px;
+  color: #434d53;  
+}
+#header a
+{
+  color: #434d53;
+  text-decoration: none;
+}
+#header a:hover
+{
+  text-decoration: underline;
+}
+#header form select
+{
+  border: 1px solid #a5b2ba;  
+}
+#header form select
+{
+  behavior: url(/css/news/PIE.htc);
+  -moz-border-radius: 5px 5px 5px 5px;
+  -webkit-border-radius: 5px 5px 5px 5px;
+  -khtml-border-radius: 5px 5px 5px 5px;
+  border-radius: 5px 5px 5px 5px;
+  border: none;  
+}
+#changelangue .submitlang
+{
+  border: none;  
+  behavior: url(/css/news/PIE.htc);
+  -moz-border-radius: 5px 5px 5px 5px;
+  -webkit-border-radius: 5px 5px 5px 5px;
+  -khtml-border-radius: 5px 5px 5px 5px;
+  border-radius: 5px 5px 5px 5px;
+  padding-left: 3px;
+  padding-right: 3px;  
+  color: #434d53;
+  background-color: #fff;
+}
+
+#logo
+{
+  padding: 10px;
+  text-align: center;
+  background: url(../images/logo.png);
+  margin-right: 100px;  /*A cause des flags*/
+}
+#search
+{
+  width: 700px;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px; 
+  position: relative;  /*A cause du loader*/
+  left: 50px;  
+}
+#search_keywords
+{
+  font-size: 160%;
+  padding: 8px 10px;
+  line-height: 1.5em;
+  margin-bottom: 3px;
+  margin-left: 0px;
+  width: 579px;
+  height: 27px;
+  border: 0;
+  background: url(../images/search-box.jpg);
+  text-indent: 0;
+  color: #666;
+}
+#loader
+{
+  position: relative;
+  right: 50px;
+}
+#flags
+{
+  width: 100px;
+  float: left;
+}
+#flags img
+{
+  margin-top: 3px;
+  border: 1px solid #5d93b5;
+}
+.info-bulle-contenu
+{
+  display: none;
+  position: absolute;
+  background-color: #4c7691;
+  padding: 6px;
+  padding-left: 12px;
+  padding-right: 12px;
+  color: #fff;
+}
+
+#menu
+{
+  float: right;
+  width: 15%;
+  min-width: 100px;
+}
+
+#nouveauken a
+{
+  display: block;
+  width: 150px;
+  height: 35px;
+  line-height: 35px;    
+  margin: auto;
+  margin-bottom: 15px;
+  background-color: #4c7691;
+  font-weight: bold;
+  text-decoration: none;
+  color: #fff;
+  font-family: arial, helvetica, clean, sans-serif;
+  text-align: center;
+  behavior: url(/css/news/PIE.htc);
+  -moz-border-radius: 10px 10px 10px 10px;
+  -webkit-border-radius: 10px 10px 10px 10px;      
+  -khtml-border-radius: 10px 10px 10px 10px;      
+  border-radius: 10px 10px 10px 10px; 
+}
+#categories
+{
+  behavior: url(/css/news/PIE.htc);
+  -moz-border-radius: 10px 0px 0px 10px;
+  -webkit-border-radius: 10px 0px 0px 10px;
+  -khtml-border-radius: 10px 0px 0px 10px;
+  border-radius: 10px 0px 0px 10px;
+  background-color: #629bbf; 
+}
+
+#categories li
+{
+ height: 30px;
+ line-height: 30px; 
+}
+#categories li:hover
+{
+  background-color: #fff;
+}
+#categories a
+{
+  margin-left: 10px;
+  text-decoration: none;
+  color: #434d53;
+}
+#categories .catchosen
+{
+  background-color: #4c7691;
+}
+
+#pubmenu
+{
+  width: 120px;
+  margin: auto;
+  margin-top: 10px;
+}
+
+#adannonces
+{
+  width: 310px;
+  margin: auto;
+}
+
+#content
+{
+  width: 60%;
+  min-width: 700px;
+  margin: auto;
+}
+#footer
+{
+  width: 800px;
+  margin: auto;
+  margin-top: 10px;
+  text-align: center;
+  color: #434d53;
+}
+#footer a
+{
+  color: #434d53;
+  text-decoration: none;
+}
+#footer a:hover
+{
+  text-decoration: underline;
+}

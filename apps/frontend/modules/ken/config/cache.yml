@@ -1,0 +1,19 @@
+new:
+  enabled:     true
+ 
+index:
+  enabled:     true
+  lifetime: 600    
+
+show:
+  enabled:     true
+  lifetime: 600    
+  
+category:
+  enabled:     true
+  lifetime: 600    
+ 
+all:
+  with_layout: false
+  
+  

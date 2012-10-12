@@ -1,0 +1,64 @@
+#kens
+{
+  behavior: url(/css/news/PIE.htc);
+  -moz-border-radius: 10px 10px 10px 10px;
+  -webkit-border-radius: 10px 10px 10px 10px;
+  -khtml-border-radius: 10px 10px 10px 10px;
+  border-radius: 10px 10px 10px 10px;
+  background-color: #fff;  
+  padding: 10px;
+}
+#options
+{
+  height: 50px;
+}
+#witchflag
+{
+  float: left;
+}
+#reseausociaux
+{
+  float: right;
+}
+.ken
+{
+  behavior: url(/css/news/PIE.htc);
+  -moz-border-radius: 10px 10px 10px 10px;
+  -webkit-border-radius: 10px 10px 10px 10px;
+  -khtml-border-radius: 10px 10px 10px 10px;
+  border-radius: 10px 10px 10px 10px;
+  min-height: 50px;
+  border: 1px solid #fff;
+  padding: 5px;    
+}
+.ken:hover
+{
+  background-color: #e1ebf1;
+}
+.ken img
+{
+  float: right;
+  height: 50px;
+}
+.ken .annonce
+{
+  margin-top: 18px;
+  font-family: "verdana";
+  font-size: 1.1em;      
+  color: #201e1e;  
+}
+.ken .annonce a
+{
+  text-decoration: none;
+  color: #28526d; 
+  font-weight: bold;   
+}
+.ken .negociable
+{
+  text-decoration: underline;
+}
+.ken small
+{
+  font-size: 0.8em;
+  color: #434d53;
+}

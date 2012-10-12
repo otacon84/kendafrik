@@ -1,0 +1,37 @@
+# You can find more information about this file on the symfony website:
+# http://www.symfony-project.org/reference/1_4/en/10-Routing
+
+# default rules
+homepage:
+  url:   /
+  param: { module: ken, action: index }
+  
+localized_homepage:
+  url:   /:sf_culture/
+  param: { module: ken, action: index }
+  requirements:
+    sf_culture: (?:fr|en|es|pt)  
+
+ken:
+  class:   sfDoctrineRouteCollection
+  options: 
+    model: ken 
+    prefix_path:    /:sf_culture/ken
+  requirements:
+    sf_culture: (?:fr|en|es|pt)      
+  
+category:
+  url:      /:sf_culture/category/:slug
+  param:    { module: ken, action: category }
+  requirements:
+    sf_culture: (?:fr|en|es|pt)    
+  
+ken_search:
+  url:   /:sf_culture/search
+  param: { module: ken, action: search }  
+  requirements:
+    sf_culture: (?:fr|en|es|pt)  
+
+change_language:
+  url:   /change_language
+  param: { module: language, action: changeLanguage }      
